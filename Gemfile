@@ -5,3 +5,6 @@ gemspec
 
 # for demo site
 gem "jekyll-paginate"
+
+# to resolve bigdecimal error
+gem "bigdecimal"
