@@ -43,3 +43,6 @@ plugins:
 
 paginate: 3
 paginate_path: "/page/:num/"
+
+remote-theme: hitchens-theme
+ignore_theme_config: true
