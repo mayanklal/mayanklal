@@ -1,11 +1,14 @@
-- title: About
-  url: /about.html
+- title: Reveries
+  url: /reveries.html
 
-- title: Blogs
-  url: /blogs.html
+- title: Computes
+  url: /computes.html
 
-- title: Projects
-  url: /projects.html
+- title: Pixels
+  url: /pixels.html
 
-- title: Wanderings
-  url: /wanderings.html
+- title: Assemblies
+  url: /assemblies.html
+
+- title: Pi
+  url: /Pi.html
