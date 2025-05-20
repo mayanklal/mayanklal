@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Quantitative Storyteller
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mayanklal.com" # the base hostname & protocol for your site, e.g. http://mayanklal.com
-icon: /assets/images/IMG_20221113_220721_096.jpg
+icon: /assets/images/mali.png
 twitter_username: MayankLal7
 github_username:  mayanklal
 
